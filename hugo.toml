@@ -1,4 +1,4 @@
-baseurl = "https://www.cc3d.org/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
+baseurl = "https://www.iglesiayosoy.org/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 title = "CC3D"
 theme = "hugo-universal-theme"
 #themesDir = "/"
