@@ -1,5 +1,5 @@
 baseurl = "https://www.iglesiayosoy.org/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
-title = "CC3D"
+title = 'Iglesia "Yo Soy"'
 theme = "hugo-universal-theme"
 #themesDir = "/"
 PublishDir = "docs"
@@ -10,7 +10,7 @@ ShowBreadCrumbs = "true"
 # Enable comments by entering your Disqus shortname
 #disqusShortname = "cc3d"
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+# googleAnalytics = ""
 
 # number of words of summarized post content (default 70)
 summaryLength = 70
@@ -35,7 +35,7 @@ pluralizelisttitles = false
 
 
 [[menu.main]]
-    name       = "Academico"
+    name       = "Ministerios"
     identifier = "menu.features"
     url        = "/img/group4.jpeg"
     weight     = 3
@@ -76,67 +76,19 @@ pluralizelisttitles = false
 
 
 [[menu.main]]
-    name       = "Admisiones"
-    identifier = "menu.portfolio"
-    url        = "/img/group-table.jpg"
-    weight     = 3
-
-[[menu.main]]
-    name       = "¡Empieza aquí!"
-    url        = "/admisiones/"
-    weight     = 1
-    identifier = "section.portfolio"
-    parent     = "menu.portfolio"
-    post       = 1
-
-[[menu.main]]
-    name       = "1. Primeros Pasos"
-    url        = "/admisiones/empieza"
-    weight     = 2
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "2. Inscripción"
-    url        = "/admisiones/admision"
-    weight     = 3
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "Información"
-    identifier = "section.about"
-    url        = ""
-    weight     = 2
-    parent     = "menu.portfolio"
-    post       = 2
-
-
-
-[[menu.main]]
-    name       = "Calendario"
-    url        = "/calendar"
-    weight     = 1
-    parent     = "section.about"
-
- [[menu.main]]
-    name       = "Costos"
-    url        = "/posts/costos"
-    weight     = 2
-    parent     = "section.about"
-
-[[menu.main]]
     name       = "Nosotros"
     identifier = "menu.allpages"
     url        = "/nosotros/"
     weight     = 4
 
 [[menu.main]]
-    name       = "¿Que es el CC3D?"
+    name       = "¿Quienes somos?"
     url        = "/nosotros/somos-diferentes"
     weight     = 1
     parent     = "menu.allpages"
 
 [[menu.main]]
-    name       = "El Equipo"
+    name       = "Liderazgo"
     url        = "/nosotros/equipo"
     weight     = 2
     parent     = "menu.allpages"
@@ -147,11 +99,6 @@ pluralizelisttitles = false
     weight     = 3
     parent     = "menu.allpages"
 
-[[menu.main]]
-    identifier = "Libros"
-    name       = "libros"
-    url        = "http://libros.cc3d.org"
-    weight     = 8
 
 [[menu.main]]
     identifier = "contact"
@@ -189,12 +136,12 @@ pluralizelisttitles = false
 [[menu.topbar]]
     weight = 2
     name = "Email"
-    url = "mailto:info@cc3d.org"
+    url = "mailto:naiotmorada@gmail.com"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "CC3D"
+    author = "Yo Soy"
     defaultKeywords = ["devcows", "hugo", "go"]
     mainSections = ["blog"]
     defaultDescription = "Derechos Resevados ®CC3D"
@@ -203,7 +150,7 @@ pluralizelisttitles = false
     # Social media
     # facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
     twitter_site = "GoHugoIO" # the Twitter handle of your site (without the '@')
-    default_sharing_image = "img/sharing-default.png"
+    default_sharing_image = "img/logo-transparente.png"
 
     # Google Maps widget: If `googleMapsApiKey` is not set, no key will be passed to Google (which likely results in a broken map widget).
     enableGoogleMaps = false
@@ -213,7 +160,7 @@ pluralizelisttitles = false
     longitude = "-77.028333"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "default"
+    style = "red"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -260,11 +207,10 @@ pluralizelisttitles = false
     disabled_logo = false
     logo_text = "Universal"
 
-    logo = "img/logo.png"
-    logo_small = "img/logo-small.png"
+    logo = "img/logo-transparente.png"
+    logo_small = "img/logo-transparente.png"
     contact_url = "/contacto"
-    address = """<p class="text-uppercase"><strong>CC3D</strong>
-        <br>Iglesia Yo Soy
+    address = """<p class="text-uppercase"><strong>Iglesia "Yo Soy"</strong>
         <br>Cochabamba
         <br>
         <strong>Bolivia</strong>
@@ -283,7 +229,7 @@ CanonifyURLs = true
     enable = true
     text = """<p class="hidden-sm hidden-xs">Contactarnos via WhatsApp +591 (7) 172-8180 or info@cc3d.org</p>
       <p class="hidden-md hidden-lg"><a href="tel:+591 (7) 172-8180" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
-      <a href="mailto:info@cc3d.org" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
+      <a href="mailto:naiotmorada@gmail.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
       """
 
@@ -322,7 +268,7 @@ CanonifyURLs = true
     # For more information take a look at the README.
 
 [params.testimonials]
-    enable = true
+    enable = false
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more information take a look at the README.
@@ -330,7 +276,7 @@ CanonifyURLs = true
     subtitle = "Lo que dicen los alumnos de CC3D"
 
 [params.see_more]
-    enable = true
+    enable = false
     icon = "far fa-file-alt"
     title = "Centro de Capacitación 3D"
     subtitle = "Estudio bíblico intensivo de un año"
