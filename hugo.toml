@@ -278,7 +278,7 @@ CanonifyURLs = true
 [params.see_more]
     enable = false
     icon = "far fa-file-alt"
-    title = "Centro de Capacitación 3D"
+    title = "Yo Soy"
     subtitle = "Estudio bíblico intensivo de un año"
     link_url = "/nosotros/somos-diferentes/"
     link_text = "Más Información"
@@ -294,7 +294,7 @@ CanonifyURLs = true
 [params.recent_posts]
     enable = true
     title = "Bienvenido"
-    subtitle = "La idea de participar en el desarrollo de su futuro es un privilegio que no nos tomamos a la ligera. Dado que el CC3D se trata de hacer hacedores de discípulos y no simplemente discípulos, adoptamos un enfoque diferente hacia la educación. Nuestro programa está diseñado para ser intencional en todo momento."
+    subtitle = "Yo Soy es una comunidad de creyentes reunidos en nombre del Señor Jesucristo en Cochabamba, Bolivia. ¡Estás Bienvenido!."
 
     hide_summary = false
 
