@@ -9,6 +9,11 @@ ___
 ![](/img/M-padillas.jpeg)
 ## Moises y Verónica Padilla
 
+Desde que conocí al Señor Jesucristo como mi Salvador cuando niño estoy en la iglesia del Señor!! 
+A mis 28 años el Señor me completó con mi amada esposa. Juntos hemos servido y servimos al Señor sirviendo a los hermanos. 
+Como iglesia podría afirmar que hemos encontrado nuestro norte (N). Queremos  como ministerio predicar el evangelio de la gracia de Dios hasta que Cristo vuelva!!!
+
+La invitación de Jesús de doble descanso de Mat. 11:28-30 ha sido y es tan real y verdadero en nuestra experiencia que nos gustaría que todos a nuestro alrededor también la tengan!!
 ___
 ![](/img/padillas.jpeg)
 

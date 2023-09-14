@@ -1,5 +1,5 @@
 baseurl = "https://www.iglesiayosoy.org/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
-title = 'Iglesia "Yo Soy"'
+title = 'Iglesia Yo Soy'
 theme = "hugo-universal-theme"
 #themesDir = "/"
 PublishDir = "docs"
