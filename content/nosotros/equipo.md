@@ -37,7 +37,7 @@ Uzai sirve como diacono de la iglesia y maestro en el CC3D. Sus estudios incluye
 
 ___
 
-![](/img/marcio.jpg)
+![](/img/marcio-salem.jpg)
 ## Marcio y Salém Oropeza
 Marcio sirve al Señor como diacono en la iglesia y a la vez como maestro en el CC3D. Marcio se graduó del programa de CC3D en el año 2023. Marcio esta casado con Salém y juntos tienen un hijo, Teo. 
 
